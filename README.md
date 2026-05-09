@@ -32,11 +32,6 @@ Claude Code · MCP · Claude Agent SDK · TypeScript · Python · React · Next.
 
 Non padroneggio ogni framework — padroneggio il livello sopra: architettura multi-agente, grafi architetturali, TDD graph-driven, prompt engineering avanzato.
 
-## Contatti
-
-- **LinkedIn:** [raymond-dalessandro-earlab](https://linkedin.com/in/raymond-dalessandro-earlab)
-- **Sito:** [nodo432.com](https://nodo432.com)
-
 ---
 
 _Figura diversa, non intercambiabile con developer tradizionali. Se cerchi qualcuno che legge il codice riga per riga, non sono io. Se cerchi qualcuno che progetta sistemi che funzionano orchestrando agenti, parliamone._
